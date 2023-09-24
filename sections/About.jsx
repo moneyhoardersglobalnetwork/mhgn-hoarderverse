@@ -16,25 +16,25 @@ const About = () => (
       viewport={{ once: false, amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto ${styles.flexCenter} flex-col`}
     >
-      <TypingText title="| About Metaversus" textStyles="text-center" />
+      <TypingText title="| Hitchhikers Guide" textStyles="text-center" />
 
       <motion.p
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Metaverse</span> is a new
-        thing in the future, where you can enjoy the virtual world by feeling
-        like it's really real, you can feel what you feel in this metaverse
-        world, because this is really the{' '}
+        <span className="font-extrabold text-white">Hoarderverse</span> is a new
+        thing in the future, where you can create, enjoy and access decentralized trust-minimized web3 financial applications or dApps and virtual worlds by feeling
+        like it's really real and knowing it has secured value, you can feel what you feel in this hoarderverse
+        VR experience, because this is really the{' '}
         <span className="font-extrabold text-white">
-          madness of the metaverse
+          vastness of the hoarderverse
         </span>{' '}
-        of today, using only{' '}
+        of today, connecting your web3 wallet to the Hoarderverse Gateway and linking{' '}
         <span className="font-extrabold text-white">VR</span> devices you can
-        easily explore the metaverse world you want, turn your dreams into
+        easily explore the hoarderverse world you want, turn your dreams into
         reality. Let's{' '}
-        <span className="font-extrabold text-white">explore</span> the madness
-        of the metaverse by scrolling down
+        <span className="font-extrabold text-white">explore</span> the vastness
+        of the hoarderverse by scrolling down
       </motion.p>
 
       <motion.img

@@ -2,34 +2,34 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    title: 'The Hitchhikers Guide',
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    title: 'The Hoarding Gateway',
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    title: 'Hoarderopoly',
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    title: 'Hoarder Island',
   },
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    title: 'Hoarder Labs',
   },
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Grab some BOP tokens from the faucet! then Find a world that suits you and you want to enter',
+  'Enter the world by reading The Hitchhikers Guide for that world to be safe',
+  'Once you have set up your wallet and dripped the faucet there is no need to beat around the bush, just stay on the gas and have fun head over to the BOP Faucet and drip some BOP tokens to your wallet all you pay is the gas fees on Polygon Mainnet',
 ];
 
 export const newFeatures = [
@@ -37,34 +37,34 @@ export const newFeatures = [
     imgUrl: '/vrpano.svg',
     title: 'A new world',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'We are forking the Roblox engine and building on the code base',
   },
   {
     imgUrl: '/headset.svg',
     title: 'More realistic',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'In the coming updates, your eyes will narrow, making the world more realistic than ever with the release H-Visor 1 headsets',
   },
 ];
 
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'The launch of the Hoarderverse will be the next stage of web3 evolution',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'M.H.G.N Core Devs have been working non-stop learning and implementing new features into the Hoarderverse stay connected for real time updates.',
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    title: 'The Hitchhikers Guide to The Hoarderverse is a great read to easily master the vastness of the Hoarderverse',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        'Written by @moneyhoardermike for hoarders as a on-boarding guide into the ecosystem. It begins with a dive into Bitcoin and its creation, crypto wallets and key management',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title: 'With one platform you can explore, learn, and earn.',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'M.H.G.N Blocks of Passion Protocol is a decentralized non-profit with broad use cases. BOP by MHGN is a tokenized asset launched on Polygon Network with real world value.',
   },
 ];
 
