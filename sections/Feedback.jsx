@@ -22,6 +22,7 @@ const Feedback = () => (
         <div>
           <h4 className="font-bold sm:text-[32px] text-[26px] sm:leading-[40.32px] leading-[36.32px] text-white">
             Michael Williams Jr.
+            <div className="font-bold sm:text-[20px] text-[26px] sm:leading-[40.32px] leading-[36.32px] text-white">@moneyhoardermike</div>
           </h4>
           <p className="mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22.68px] leading-[16.68px] text-white">
             Founder Money Hoarders Global Network
@@ -50,7 +51,7 @@ const Feedback = () => (
           className="lg:block hidden absolute -left-[10%] top-[3%]"
         >
           <img
-            src="/stamp.png"
+            src="/hoarderverse_stamp.png"
             alt="stamp"
             className="w-[155px] h-[155px] object-contain"
           />
